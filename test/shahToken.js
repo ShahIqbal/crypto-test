@@ -1,0 +1,1 @@
+var shahToken = artifacts.require("./shahToken.sol")
